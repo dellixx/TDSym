@@ -22,7 +22,7 @@ The project is organized as follows:
 │   ├── TeLM.py           # Baseline: TeLM
 │   ├── TeRDy.py          # Baseline: TeRDy
 │   ├── TComplEx.py       # Baseline: TComplEx
-│   ├── TNTComplEx.py     # Baseline: TNTComplEx
+│   ├── TCompoundE.py     # Baseline: TCompoundE
 │   └── ...
 ├── src_data/             # Raw data storage
 ├── datasets.py           # Dataset loading and batching utilities
