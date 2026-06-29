@@ -1,9 +1,7 @@
 
 # Learning Continuous Temporal Dynamics on Symplectic Manifolds for Temporal Knowledge Graph Embedding
 
-<p align="center">
-  <b>Anonymous Submission for Code Reproducibility</b>
-</p>
+
 
 
 
@@ -102,6 +100,3 @@ python learner.py \
 ```
 
 
-## ⚠️ Note on Anonymity
-
-This repository is submitted for a **double-blind review**. Please do not distribute this code.
